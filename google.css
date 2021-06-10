@@ -30,4 +30,20 @@
 	--google-pink-A200: #FF4081;
 	--google-pink-A400: #F50057;
 	--google-pink-A700: #C51162;
+	
+	/* Purple */
+	--google-purple-50: #EDE7F6;
+	--google-purple-100: #D1C4E9;
+	--google-purple-200: #B39DDB;
+	--google-purple-300: #9575CD;
+	--google-purple-400: #7E57C2;
+	--google-purple-500: #673AB7;
+	--google-purple-600: #5E35B1;
+	--google-purple-700: #512DA8;
+	--google-purple-800: #4527A0;
+	--google-purple-900: #311B92;
+	--google-purple-A100: #B388FF;
+	--google-purple-A200: #7C4DFF;
+	--google-purple-A400: #651FFF;
+	--google-purple-A700: #6200EA;
 }
