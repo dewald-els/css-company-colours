@@ -1,5 +1,5 @@
 :root {
-  /* Red */
+  	/* Red */
 	--google-red-50: #FFEBEE;
 	--google-red-100: #FFCDD2;
 	--google-red-200: #EF9A9A;
@@ -14,4 +14,20 @@
 	--google-red-A200: #FF5252;
 	--google-red-A400: #FF1744;
 	--google-red-A700: #D50000;
+	
+	/* Pink */
+	--google-pink-50: #FCE4EC;
+	--google-pink-100: #F8BBD0;
+	--google-pink-200: #F48FB1;
+	--google-pink-300: #F06292;
+	--google-pink-400: #EC407A;
+	--google-pink-500: #E91E63;
+	--google-pink-600: #D81B60;
+	--google-pink-700: #C2185B;
+	--google-pink-800: #AD1457;
+	--google-pink-900: #880E4F;
+	--google-pink-A100: #FF80AB;
+	--google-pink-A200: #FF4081;
+	--google-pink-A400: #F50057;
+	--google-pink-A700: #C51162;
 }
